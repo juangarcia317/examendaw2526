@@ -5,8 +5,8 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>examenut7</groupId>
-    <artifactId>examenut7</artifactId>
+    <groupId>examendaw2526</groupId>
+    <artifactId>examendaw2526</artifactId>
     <version>1.0</version>
 
     <properties>
@@ -43,6 +43,22 @@
             <version>5.10.2</version>
             <scope>test</scope>
         </dependency>
+		
+		<!--conexión a bbdd tema8-->
+		<dependency>
+			<groupId>com.mysql</groupId>
+			<artifactId>mysql-connector-j</artifactId>
+			<version>9.5.0</version>
+			<scope>compile</scope>
+		</dependency>
+
+		<!-- Mockito + integración con JUnit 5 -->
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-junit-jupiter</artifactId>
+			<version>5.11.0</version>
+			<scope>test</scope>
+		</dependency>
 
     </dependencies>
 
