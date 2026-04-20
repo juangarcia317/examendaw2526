@@ -1,13 +1,13 @@
-package examenut7;
+package examenUT8;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class InfoJugadoresUT7Test {
+class ExamenMainTest {
 
 	@Test
-	void test() {
+	void testMain() {
 		fail("Not yet implemented");
 	}
 
