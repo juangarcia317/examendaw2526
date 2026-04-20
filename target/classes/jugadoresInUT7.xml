@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jugadoresUT7>
+    <jugador>
+        <code>xx23</code>
+        <nombre>XXXXXXX</nombre>
+        <procedencia>Akron, Ohio</procedencia>
+        <altura>2.06</altura>
+        <peso>113</peso>
+        <posicion>Alero</posicion>
+        <nombre_equipo>Los Angeles Lakers</nombre_equipo>
+    </jugador>
+    <jugador>
+        <code>KD35</code>
+        <nombre>Kevin Durant</nombre>
+        <procedencia>Washington D.C.</procedencia>
+        <altura>2.11</altura>
+        <peso>109</peso>
+        <posicion>Alero</posicion>
+        <nombre_equipo>Phoenix Suns</nombre_equipo>
+    </jugador>
+    <jugador>
+        <code>SC30</code>
+        <nombre>Stephen Curry</nombre>
+        <procedencia>Akron, Ohio</procedencia>
+        <altura>1.88</altura>
+        <peso>83</peso>
+        <posicion>Base</posicion>
+        <nombre_equipo>Golden State Warriors</nombre_equipo>
+    </jugador>
+</jugadoresUT7>
