@@ -37,8 +37,21 @@ Abre **Git Bash** en Spring Tool Suite o en Eclipse (`Window` → `Show View` �
 5. Clic derecho en el proyecto → **Maven** → **Update Project** → **OK**.
 6. **NO Cerrar**.
 
-**Estructura de carpetas:**
 
+### Estructura de carpetas:
+
+* **examendaw2526** [examendaw2526 main]
+    * 📁 **src/main/java**
+        * 📦 **examenUT8**
+            * 📄 `ExamenMain.java`
+        * 📦 **extraordinaria18junio**
+            * 📄 `MainExtra18Junio.java`
+        * 📦 **ordinaria19mayo**
+            * 📄 `MainOrd19Mayo`
+        * 📦 **ordinaria2junio**
+            * 📄 `MainOrd2Junio.java`
+        * 📦 **simulacrout8**
+    * 📁 **src/main/resources**
 ---
 
 ## 5. Comandos git
