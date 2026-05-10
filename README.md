@@ -20,9 +20,9 @@ Abre **Git Bash** en Spring Tool Suite o en Eclipse (`Window` → `Show View` �
 
 `cd C:\Programas\sts`
 
-`git clone https://github.com/TU_USUARIO/examendaw2526`
+`git clone https://USUARIO:TOKEN@github.com/USUARIO/examendaw2526`
 
-
+> **Nota:** Recuerca añadir tu token personal para poder hacer commit a tu repositorio.
 
 > **Nota:** Recuerda la ruta donde has hecho el `clone` para importar esa carpeta en Eclipse/STS.
 
